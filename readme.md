@@ -8,15 +8,15 @@
 
 **爬虫配置**
 
-​        ***编辑zhihu/zhihu/settings.py***
+​&ensp;***编辑zhihu/zhihu/settings.py***
 
-​            修改第27行 SCROLL_LEN 以确定爬取文章数
+​&ensp;&ensp;修改第27行 SCROLL_LEN 以确定爬取文章数
 
-​            修改第29行 TOTAL_COMMENT 以确定单篇文章评论数
+​&ensp;&ensp;修改第29行 TOTAL_COMMENT 以确定单篇文章评论数
 
-​            修改第18行 INIT_URL以确定主题
+​&ensp;&ensp;修改第18行 INIT_URL以确定主题
 
-​如下图金融话题的精华文章url为https://www.zhihu.com/topic/19609455/top-answers，
+​&ensp;&ensp;如下图金融话题的精华文章url为https://www.zhihu.com/topic/19609455/top-answers，
 
 ​加入到INIT_URL中
 
