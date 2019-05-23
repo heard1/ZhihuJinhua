@@ -21,7 +21,9 @@
 > > > 加入到INIT_URL中
 
 > > ![image](https://github.com/heard1/ZhihuJinhua/blob/master/picture/1.png)
+
 **爬取命令**
+
 * cd scrapy
 * scrapy crawl zhihu_spider
 
